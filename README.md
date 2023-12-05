@@ -25,6 +25,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```json
   "dependencies": {
+    "ant-design-vue": "^4.0.7",
     "pinia": "^2.1.7",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
@@ -39,20 +40,23 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
     "@vue/eslint-config-typescript": "^12.0.0",
     "@vue/test-utils": "^2.4.1",
     "@vue/tsconfig": "^0.4.0",
+    "autoprefixer": "^10.4.16",
     "cypress": "^13.3.1",
     "eslint": "^8.49.0",
     "eslint-plugin-cypress": "^2.15.1",
     "eslint-plugin-vue": "^9.17.0",
+    "husky": "^8.0.0",
     "jsdom": "^22.1.0",
     "lint-staged": "^15.2.0",
     "npm-run-all2": "^6.1.1",
+    "postcss": "^8.4.32",
     "prettier": "^3.0.3",
     "start-server-and-test": "^2.0.1",
+    "tailwindcss": "^3.3.6",
     "typescript": "~5.2.0",
     "vite": "^4.4.11",
     "vitest": "^0.34.6",
-    "vue-tsc": "^1.8.19",
-    "husky": "^8.0.0"
+    "vue-tsc": "^1.8.19"
   }
 ```
 
